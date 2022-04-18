@@ -1,10 +1,678 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://alt-599c7a2702a96.blackboard.com/bbcswebdav/pid-6982141-dt-content-rid-49195350_1/courses/BDAT1002-22W-20922/books.xml?one_hash=37FAE4EFFC645CF86757BE6265D1B630&amp;f_hash=D447BE153714B5A955EA342F9702D0DE</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Gambardella, Matthew</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>XML Developer's Guide</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Computer</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>44.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-10-01</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>An in-depth look at creating applications with XML.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line2"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Corets, Eva</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Maeve Ascendant</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Fantasy</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>5.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-11-17</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Oberon's Legacy</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Fantasy</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>5.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2001-03-10</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>The Sundered Grail</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Fantasy</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>5.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2001-09-10</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>The two daughters of Maeve, half-sisters, battle one another for control of England. Sequel to Oberon's Legacy.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line3"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Ralls, Kim</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Midnight Rain</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Fantasy</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>5.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-12-16</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line4"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Randall, Cynthia</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Lover Birds</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Romance</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>4.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-09-02</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>When Carla meets Paul at an ornithology conference, tempers fly as feathers get ruffled.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line5"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Thurman, Paula</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Splish Splash</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Romance</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>4.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-11-02</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>A deep sea diver finds true love twenty thousand leagues beneath the sea.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line6"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Knorr, Stefan</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Creepy Crawlies</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Horror</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>4.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-12-06</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>An anthology of horror stories about roaches,centipedes, scorpionsand other insects.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line7"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Kress, Peter</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Paradox Lost</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Science Fiction</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>6.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-11-02</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discovers the problems of being quantum.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line8"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>O'Brien, Tim</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Microsoft .NET: The Programming Bible</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Computer</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>36.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-12-09</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Microsoft's .NET initiative is explored in detail in this deep programmer's reference.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>MSXML3: A Comprehensive Guide</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Computer</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>36.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2000-12-01</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>The Microsoft MSXML3 parser is covered in detail, with attention to XML DOM interfaces, XSLT processing, SAX and more.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span>
-<span id="line9"></span></span><span>&lt;<span class="start-tag">book</span>&gt;</span><span></span><span>&lt;<span class="start-tag">author</span>&gt;</span><span>Galos, Mike</span><span>&lt;/<span class="end-tag">author</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Visual Studio 7: A Comprehensive Guide</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;<span class="start-tag">genre</span>&gt;</span><span>Computer</span><span>&lt;/<span class="end-tag">genre</span>&gt;</span><span></span><span>&lt;<span class="start-tag">price</span> <span class="attribute-name">discount</span>="<a class="attribute-value">0.15</a>"&gt;</span><span>49.95</span><span>&lt;/<span class="end-tag">price</span>&gt;</span><span></span><span>&lt;<span class="start-tag">publish_date</span>&gt;</span><span>2001-04-16</span><span>&lt;/<span class="end-tag">publish_date</span>&gt;</span><span></span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Microsoft Visual Studio 7 is explored in depth, looking at how Visual Basic, Visual C++, C#, and ASP+ are integrated into a comprehensive development environment.</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">book</span>&gt;</span><span></span></pre></body></html>
+<html
+	xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta name="viewport" content="width=device-width" />
+		<title>https://alt-599c7a2702a96.blackboard.com/bbcswebdav/pid-6982141-dt-content-rid-49195350_1/courses/BDAT1002-22W-20922/books.xml?one_hash=37FAE4EFFC645CF86757BE6265D1B630&amp;f_hash=D447BE153714B5A955EA342F9702D0DE</title>
+		<link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" />
+	</head>
+	<body id="viewsource" class="highlight" style="tab-size: 4">
+		<pre id="line1">
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Gambardella, Matthew</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>XML Developers Guide</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Computer</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>44.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-10-01</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>An in-depth look at creating applications with XML.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line2"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Corets, Eva</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Maeve Ascendant</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Fantasy</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>5.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-11-17</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Oberons Legacy</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Fantasy</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>5.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2001-03-10</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>The Sundered Grail</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Fantasy</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>5.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2001-09-10</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>The two daughters of Maeve, half-sisters, battle one another for control of England. Sequel to Oberons Legacy.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line3"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Ralls, Kim</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Midnight Rain</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Fantasy</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>5.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-12-16</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line4"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Randall, Cynthia</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Lover Birds</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Romance</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>4.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-09-02</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>When Carla meets Paul at an ornithology conference, tempers fly as feathers get ruffled.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line5"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Thurman, Paula</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Splish Splash</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Romance</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>4.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-11-02</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>A deep sea diver finds true love twenty thousand leagues beneath the sea.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line6"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Knorr, Stefan</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Creepy Crawlies</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Horror</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>4.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-12-06</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>An anthology of horror stories about roaches,centipedes, scorpionsand other insects.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line7"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Kress, Peter</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Paradox Lost</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Science Fiction</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>6.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-11-02</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discovers the problems of being quantum.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line8"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>OBrien, Tim</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Microsoft .NET: The Programming Bible</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Computer</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>36.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-12-09</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>Microsofts .NET initiative is explored in detail in this deep programmers reference.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>MSXML3: A Comprehensive Guide</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Computer</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>36.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2000-12-01</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>The Microsoft MSXML3 parser is covered in detail, with attention to XML DOM interfaces, XSLT processing, SAX and more.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span>
+				<span id="line9"></span>
+			</span>
+			<span>&lt;
+				<span class="start-tag">book</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">author</span>&gt;
+			</span>
+			<span>Galos, Mike</span>
+			<span>&lt;/
+				<span class="end-tag">author</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">title</span>&gt;
+			</span>
+			<span>Visual Studio 7: A Comprehensive Guide</span>
+			<span>&lt;/
+				<span class="end-tag">title</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">genre</span>&gt;
+			</span>
+			<span>Computer</span>
+			<span>&lt;/
+				<span class="end-tag">genre</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">price</span>
+				<span class="attribute-name">discount</span>="
+				<a class="attribute-value">0.15</a>"&gt;
+			</span>
+			<span>49.95</span>
+			<span>&lt;/
+				<span class="end-tag">price</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">publish_date</span>&gt;
+			</span>
+			<span>2001-04-16</span>
+			<span>&lt;/
+				<span class="end-tag">publish_date</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;
+				<span class="start-tag">description</span>&gt;
+			</span>
+			<span>Microsoft Visual Studio 7 is explored in depth, looking at how Visual Basic, Visual C++, C#, and ASP+ are integrated into a comprehensive development environment.</span>
+			<span>&lt;/
+				<span class="end-tag">description</span>&gt;
+			</span>
+			<span></span>
+			<span>&lt;/
+				<span class="end-tag">book</span>&gt;
+			</span>
+			<span></span>
+		</pre>
+	</body>
+</html>
